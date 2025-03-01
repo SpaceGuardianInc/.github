@@ -24,7 +24,7 @@ We created **SpaceGuardian**, a subscription-based SaaS platform for automatic s
 ### 📌 Want to Learn More?  
 
 📩 **Contact us**: [info@spaceguardian.com](info@spaceguardian.com)
-🌐 **Website**: [https://spaceguardian.com](https://github.com/siapy/siapy-lib)
-🔗 **Follow us**: [LinkedIn](https://www.linkedin.com/in/spaceguardian/)
+🌐 **Website**: [https://spaceguardian.eu/](https://spaceguardian.eu/)
+🔗 **Follow us**: [LinkedIn](https://www.linkedin.com/company/space-guardian)
 
 Join us in making **space safer and more efficient for everyone!** 🌍✨  
